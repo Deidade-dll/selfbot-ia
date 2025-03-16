@@ -11,7 +11,7 @@ A estrutura do projeto é a seguinte:
 /config.json  # Arquivo de configuração com o prefixo e o token  
 /index.js  # Código principal em português  
 /index_en.js  # Código principal em inglês  
-/package.json  # Dependências do projeto  
+
 
 ### Como usar o bot
 
