@@ -18,13 +18,9 @@ A estrutura do projeto é a seguinte:
 1. **Configuração inicial**:
    - Clone este repositório:
      ```bash
-     git clone https://github.com/SeuUsuario/discord-selfbot.git
-     cd discord-selfbot
+     git clone https://github.com/Deidade-dll/selfbot-ia.git 
      ```
-   - Instale as dependências:
-     ```bash
-     npm install
-     ```
+   - Instale as dependências
 
 2. **Configuração do arquivo `config.json`**:
    O arquivo `config.json` deve conter o token do seu bot e o prefixo dos comandos. Aqui está um exemplo de como deve ser o arquivo:
