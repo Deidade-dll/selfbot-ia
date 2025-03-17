@@ -63,7 +63,7 @@ O bot responderá com a resposta gerada pela AI. Exemplo:
 Resposta do bot: uma piada.
 ```
 
-*(a resposta gerada pela AI pode ser imprecisa)*
+*(a resposta gerada pela AI pode ser imprecisa)* essa mensagem provavelmente será exibida também na resposta da IA
 
 ### Configuração do Google Generative AI
 
